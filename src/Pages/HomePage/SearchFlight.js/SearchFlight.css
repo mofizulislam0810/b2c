@@ -1,0 +1,11 @@
+.date-input{
+    padding-top: 37px;
+    padding-bottom: 37px;
+    padding-left: 10px;
+}
+
+.input-field-multi{
+    height: 100px;
+    border: 2px solid darkgray;
+    border-radius: 15px;
+}

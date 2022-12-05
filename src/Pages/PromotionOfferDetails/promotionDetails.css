@@ -1,0 +1,30 @@
+@media screen and (min-width:0px) and (max-width: 485px) {
+    .open {
+        width: 100%;
+        margin-top: 60px;
+    }
+
+    .item {
+        flex-direction: column;
+    }
+
+    /*  */
+
+    .itemData {
+        padding-left: 30%;
+    }
+
+    .picture {
+        display: block;
+        width: 100%;
+    }
+
+    .paymet {
+        display: block;
+        width: 50%
+    }
+}
+
+.icon {
+    margin-left: 95%;
+}

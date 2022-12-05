@@ -1,0 +1,15 @@
+.bg-register{
+    background-image: url('../../../public/images/Half-Crop.jpg');
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+
+.banner-text-register{
+    padding-top: 100px;
+    padding-bottom: 80px;
+}

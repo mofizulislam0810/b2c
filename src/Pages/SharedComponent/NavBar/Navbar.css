@@ -1,0 +1,25 @@
+.dot {
+    height: 20px;
+    width: 20px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+  }
+
+  .dropdown-toggle::after{
+    color : rgb(0, 0, 0);
+  }
+
+  .navbar-bg-color{
+    background-color: #ffffff;
+  }
+
+  nav.scrolled {
+    background: #ffffff;
+  }
+
+  /* nav{
+    background: #00014a61;
+  } */
+
+  .brightness { filter: brightness(1.25); }

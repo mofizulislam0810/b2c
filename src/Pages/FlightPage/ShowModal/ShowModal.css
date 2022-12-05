@@ -1,0 +1,19 @@
+.modal-dialog {
+    max-width: 900px;
+    margin: 1.75rem auto;
+  }
+
+.btn{
+  border: 0px;
+}
+
+.btn:focus,.btn:active:focus,.btn.active:focus,
+.btn.focus,.btn:active.focus,.btn.active.focus {
+  border: 0px;
+  outline: none !important;
+  box-shadow: none !important
+}
+
+.fade .active {
+  background-color: #e2e2e2;
+}

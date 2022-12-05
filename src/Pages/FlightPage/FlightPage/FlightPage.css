@@ -1,0 +1,20 @@
+.content-width{
+    max-width: 95%;
+}
+
+input[type=range] {
+    height: 4px;
+    /* -webkit-appearance: none;
+    margin: 10px 0; */
+    width: 100%;
+    background-color: #3c67af;
+    color: #3c67af
+  }
+
+.time-duration{
+ border: 2px solid gray;
+ border-radius: 5px;
+ padding: 5px;
+ text-align: left;
+ cursor: pointer;
+}

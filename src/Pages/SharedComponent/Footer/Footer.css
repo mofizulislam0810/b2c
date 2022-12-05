@@ -1,0 +1,20 @@
+a{
+    text-decoration: none !important;
+}
+.app-icons {
+    display: flex;
+    align-items: center;
+}
+
+.vertical {
+    width: 300px;
+    flex-direction: column;
+}
+
+.android {
+    width: 164px;
+}
+
+.apple {
+    width: 164px;
+}

@@ -1,0 +1,26 @@
+.required-color{
+    color: red;
+}
+/* input::placeholder {
+    color: #bbb;
+    font-size: 16px;
+} */
+.titel-width{
+    width: 37%;
+}
+
+.form-label{
+    font-size: 14px;
+}
+
+.font-size-checkbok{
+    font-size: 15px;
+}
+
+.form-control{
+    border-radius: 0px;
+}
+
+.card-border-radius{
+    border-radius: 10px;
+}

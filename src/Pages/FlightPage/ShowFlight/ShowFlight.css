@@ -1,0 +1,58 @@
+.flighttime{
+    font-size: 13px;
+}
+
+.font-size{
+    font-size: 13px;
+}
+
+.selected-bg-color{
+    background-color: rgba(235, 235, 235, 0.886);
+  }
+
+  /* [data-title] {
+    font-size: 13px; 
+    position: relative;
+    cursor: pointer;
+  }
+  
+  [data-title]:hover::before {
+    content: attr(data-title);
+    position: absolute;
+    bottom: -38px;
+    display: inline-block;
+    padding: 8px 6px;
+    border-radius: 2px;
+    background: #000;
+    color: #fff;
+    font-size: 12px;
+    font-family: sans-serif;
+    white-space: nowrap;
+  }
+  [data-title]:hover::after {
+    content: '';
+    position: absolute;
+    bottom: -10px;
+    left: 8px;
+    display: inline-block;
+    color: #fff;
+    border: 8px solid transparent;	
+    border-bottom: 8px solid #000;
+  } */
+
+  .stops{
+    position: relative;
+  }
+
+  .layOver{
+    background-color: black;
+    color: white;
+    padding: 8px;
+    white-space: nowrap;
+    border-radius: 5px;
+    top: -1rem!important;
+  }
+
+  /* .stops:hover + .layOver{
+    display: block;
+  } */

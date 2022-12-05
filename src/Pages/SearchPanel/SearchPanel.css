@@ -1,0 +1,131 @@
+.date-input{
+    padding-top: 20px;
+    padding-bottom: 37px;
+    padding-left: 10px;
+}
+
+#form-bg{
+    background-color: rgba(0, 0, 0, 0.3);
+    padding: 30px 30px 70px 30px;
+    border-radius: 5px;
+}
+
+.input-field{
+    height: 50px;
+    padding:10px;
+    border:0;
+    box-shadow:0 0 15px 4px rgba(255, 254, 254, 0.12);
+}
+
+.search-button{
+    height: 104px;
+    /* background-color: #fd3711; */
+}
+
+.search-button:hover{
+    background-color: #3c67af;
+}
+
+.input-field-multi{
+    height: 100px;
+    border: 2px solid darkgray;
+    border-radius: 15px;
+}
+
+.radio-type {
+    width: 18px;
+    height: 18px;
+    transform:scale(1);
+}
+
+input[type="radio"]:checked {
+    box-shadow: 0 0 0 3px rgb(255, 255, 255);
+    background-color: #fd3711;
+    border: 0px;
+  }
+
+.bottom-border{
+    border-bottom: 5px solid red;
+    cursor:pointer
+}
+
+.traveler-class{
+    height: 50px;
+    border:0;
+    box-shadow:0 0 15px 4px rgba(255, 254, 254, 0.12);
+}
+
+
+/* input[type=text] {
+    border: 2px solid rgba(255, 255, 255, 0.712);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 16px;
+} */
+
+
+.text-input-from {
+    background-color: rgb(255, 255, 255);
+    background-image: url('../../images/icon/plane-depart.png');
+    background-size: 31px;
+    background-position: 10px 10px;
+    background-repeat: no-repeat;
+    padding-left: 48px;
+}
+.text-input-to {
+    background-color: rgb(255, 255, 255);
+    background-image: url('../../images/icon/plane-departed.png');
+    background-size: 31px;
+    background-position: 10px 10px;
+    background-repeat: no-repeat;
+    padding-left: 48px;
+}
+
+input::placeholder {
+    color: #bbb;
+    font-size: 16px;
+}
+
+.traveler{
+    cursor: pointer;
+    padding: 3px 10px 3px 10px;
+}
+
+.traveler:hover{
+    background-color: rgba(138, 135, 135, 0.329);
+}
+
+.passenger-pack {
+    background-color: #fff;
+    z-index: 11;
+    width: 256px;
+    padding: 16px;
+    margin: 5px;
+    border: 1px solid #eaeaea;
+    box-shadow: 0 1px 3px 0 rgb(60 64 67 / 30%), 0 4px 8px 3px rgb(60 64 67 / 15%);
+    -webkit-box-shadow: 0 1px 3px 0 rgb(60 64 67 / 30%),
+      0 4px 8px 3px rgb(60 64 67 / 15%);
+    border: 1px solid transparent;
+    -webkit-border-radius: 4px;
+    border-radius: 4px;
+  }
+
+  .round-btn {
+    height: 30px; 
+    width: 30px;  
+    border-radius: 50%;
+    background-color: rgb(218, 49, 49);
+    color: rgb(0, 0, 0);
+    text-align: center;
+    cursor: pointer;
+    font-weight: bold;
+    border: none;
+}
+
+.number-input input[type=text] {
+    font-family: sans-serif;
+    border: 1px solid transparent !important;
+    font-size: 1.25rem;
+    height: 2.85rem;
+    text-align: center !important;
+}
+
